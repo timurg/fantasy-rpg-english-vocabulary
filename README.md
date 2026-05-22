@@ -37,7 +37,7 @@ Technical metadata appears to the right.
 
 1. Open `wow_vocab_core_readable.xlsx`.
 
-2. Go to the `Lemma Large` sheet.
+2. Go to the `Core Small` sheet.
 
 3. Start from the top and study words by frequency.
 
